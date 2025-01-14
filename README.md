@@ -59,6 +59,6 @@ Contributions are welcome! Feel free to submit issues or create pull requests to
 
 ### Contact
 For any questions or suggestions, feel free to reach out:
-- Email: [Makiga63@gmail.com]
-- GitHub: [yourusername](https://github.com/Glabtan)
+- Email: Makiga63@gmail.com
+- GitHub: (https://github.com/Glabtan)
 
